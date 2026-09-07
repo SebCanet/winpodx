@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "repository": "SebCanet/winpodx",
+  "repositoryId": "1335805410",
+  "repositoryCreatedAt": "2026-08-16",
+  "updatedAt": "2026-09-07T08:15:16.278Z",
+  "observedFrom": "2026-09-07",
+  "backfill": {
+    "generatedAt": "2026-09-07T08:15:16.278Z",
+    "basis": "currently-active-stargazers",
+    "limitation": "Stars removed before the first collection cannot be recovered."
+  },
+  "points": [
+    {
+      "date": "2026-09-07",
+      "count": 0,
+      "source": "observed"
+    }
+  ]
+}
