@@ -3,7 +3,7 @@
   "repository": "SebCanet/winpodx",
   "repositoryId": "1335805410",
   "repositoryCreatedAt": "2026-08-16",
-  "updatedAt": "2026-10-26T08:50:50.169Z",
+  "updatedAt": "2026-10-27T08:56:07.853Z",
   "observedFrom": "2026-09-07",
   "backfill": {
     "generatedAt": "2026-09-07T08:15:16.278Z",
@@ -258,6 +258,11 @@
     },
     {
       "date": "2026-10-26",
+      "count": 0,
+      "source": "observed"
+    },
+    {
+      "date": "2026-10-27",
       "count": 0,
       "source": "observed"
     }
